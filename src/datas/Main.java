@@ -16,8 +16,6 @@ public class Main {
 		
 		System.out.println(sdf.format(d));
 		
-		Calendar cal = new Calendar();
-		
 		
 		/*
 		//Criação de formatos que voce quer exibir
